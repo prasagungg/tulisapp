@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "364573643537",
+    "project_id": "tulisapp-fb3f6",
+    "storage_bucket": "tulisapp-fb3f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364573643537:android:34f5bcc836fc06849032b0",
+        "android_client_info": {
+          "package_name": "com.example.tulisapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364573643537-o3lk10umfoqqg99gro07u4mt3qqnfji9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tulisapp",
+            "certificate_hash": "17df1ce91d2a978c51e501fdc697cab94d06c015"
+          }
+        },
+        {
+          "client_id": "364573643537-m52699fi6fhauh7g4e04i12fr43k6umd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP4hXA6wfqPlRXsirwUnVflqd6qPN1smE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364573643537-m52699fi6fhauh7g4e04i12fr43k6umd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
